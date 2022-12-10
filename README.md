@@ -3,8 +3,9 @@
 
 # Getting Started
 http://algo.r-e.kr:3000/
-관리자 권한 ID : admin@admin.com
-관리자 권한 PW : admin@123
++ 관리자 권한 ID : admin@admin.com
++ 관리자 권한 PW : admin@123
+
 ### Frontend
 + [ALGo Vue app](https://github.com/YU-ALGO/algo-fe)
 
